@@ -1,0 +1,771 @@
+,country,points,price,province,taster_name,variety,winery
+2,US,87,14.0,Oregon,Paul Gregutt,Pinot Gris,Rainstorm
+91,US,88,18.0,California,Virginie Boone,Pinot Gris,Folie à Deux
+100,US,88,18.0,New York,Anna Lee C. Iijima,Pinot Gris,Ventosa
+641,US,92,25.0,California,Virginie Boone,Pinot Gris,Les Belles Collines
+858,US,90,15.0,Oregon,Paul Gregutt,Pinot Gris,Firesteed
+916,US,87,20.0,Oregon,Paul Gregutt,Pinot Gris,Coelho
+988,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Lachini
+998,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,The Four Graces
+1020,US,88,14.0,Oregon,Paul Gregutt,Pinot Gris,Stanton Vineyard
+1026,US,88,13.0,Oregon,Paul Gregutt,Pinot Gris,Firesteed
+1123,US,84,40.0,Washington,Sean P. Sullivan,Pinot Gris,Wilridge
+1180,US,88,26.0,California,Jim Gordon,Pinot Gris,Balo
+1652,US,85,18.0,Oregon,Paul Gregutt,Pinot Gris,Oak Knoll
+1683,US,90,16.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+1900,US,89,18.0,Oregon,Paul Gregutt,Pinot Gris,Daedalus
+2345,US,85,15.0,California,Jim Gordon,Pinot Gris,McFadden
+2430,US,85,14.0,Oregon,Paul Gregutt,Pinot Gris,Erath
+2628,US,82,13.0,Oregon,Paul Gregutt,Pinot Gris,Emerson
+3368,US,92,41.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+3380,US,92,20.0,Oregon,Paul Gregutt,Pinot Gris,Raptor Ridge
+4340,US,90,19.0,Oregon,Paul Gregutt,Pinot Gris,Sokol Blosser
+4680,US,91,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+4809,US,85,18.0,Oregon,Paul Gregutt,Pinot Gris,LaVelle
+4820,US,85,15.0,Washington,Paul Gregutt,Pinot Gris,Mercer
+5039,US,91,25.0,California,Jim Gordon,Pinot Gris,FEL
+5159,US,87,17.0,Oregon,Paul Gregutt,Pinot Gris,Evergreen Vineyards
+5481,US,86,18.0,Oregon,Sean P. Sullivan,Pinot Gris,Wy'East Vineyards
+6000,US,90,20.0,California,Virginie Boone,Pinot Gris,MacMurray Estate Vineyards
+6221,US,85,19.0,Oregon,Paul Gregutt,Pinot Gris,Coeur de Terre
+7411,US,86,15.0,Oregon,Paul Gregutt,Pinot Gris,Cloudline
+7462,US,86,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Hosmer
+7491,US,83,12.0,Oregon,Paul Gregutt,Pinot Gris,Bridgeview
+7635,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,Apolloni
+7742,US,88,24.0,Oregon,Paul Gregutt,Pinot Gris,Laurelwood
+8030,US,86,13.0,Oregon,Paul Gregutt,Pinot Gris,Kings Ridge
+8315,US,92,22.0,California,Virginie Boone,Pinot Gris,Thirty-Seven Wines
+8461,US,92,17.0,Oregon,Paul Gregutt,Pinot Gris,Ponzi
+8959,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Redhawk
+9010,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Lachini
+9028,US,91,22.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+9579,US,86,14.0,Oregon,Sean P. Sullivan,Pinot Gris,Foris
+9660,US,90,32.0,Oregon,Paul Gregutt,Pinot Gris,Big Table Farm
+10310,US,91,22.0,Oregon,Paul Gregutt,Pinot Gris,Lachini
+10483,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Deer Creek
+10965,US,86,12.0,Oregon,Paul Gregutt,Pinot Gris,Château Bianca
+10999,US,90,20.0,Oregon,Paul Gregutt,Pinot Gris,Coelho
+11260,US,88,20.0,California,Virginie Boone,Pinot Gris,Horse & Plow
+11482,US,87,19.0,California,Virginie Boone,Pinot Gris,Philo Ridge
+11663,US,87,14.0,Idaho,Sean P. Sullivan,Pinot Gris,Sawtooth
+11703,US,90,20.0,Oregon,Paul Gregutt,Pinot Gris,Lumos
+11731,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Rex Hill
+11737,US,89,18.0,Oregon,Paul Gregutt,Pinot Gris,LaVelle
+12037,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+12509,US,86,18.0,New York,Anna Lee C. Iijima,Pinot Gris,Hazlitt 1852 Vineyards
+13022,US,81,16.0,Washington,Paul Gregutt,Pinot Gris,Naches Heights
+13185,US,87,13.0,Washington,Paul Gregutt,Pinot Gris,Mercer
+13495,US,85,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Atwater
+13692,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Elk Cove
+14245,US,88,19.0,Oregon,Paul Gregutt,Pinot Gris,Chehalem
+14498,US,88,10.0,Washington,Sean P. Sullivan,Pinot Gris,Chateau Ste. Michelle
+14709,US,89,20.0,Oregon,Paul Gregutt,Pinot Gris,Emerson
+15001,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Ponzi
+15234,US,87,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Hosmer
+15319,US,89,19.0,Oregon,Paul Gregutt,Pinot Gris,Sokol Blosser
+15361,US,86,20.0,California,Matt Kettmann,Pinot Gris,Still Waters
+15957,US,85,18.0,Washington,Sean P. Sullivan,Pinot Gris,Bunnell
+15972,US,85,15.0,California,Jim Gordon,Pinot Gris,McFadden
+16205,US,90,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+16917,US,86,12.0,Oregon,Paul Gregutt,Pinot Gris,Duck Pond
+17148,US,84,14.0,California,Virginie Boone,Pinot Gris,Cline
+17312,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Spindrift Cellars
+17336,US,90,25.0,California,Matt Kettmann,Pinot Gris,Claiborne & Churchill
+17359,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Yamhill Valley
+17539,US,86,20.0,California,Matt Kettmann,Pinot Gris,Stephen Ross
+17644,US,87,15.0,Oregon,Paul Gregutt,Pinot Gris,Illahe
+17688,US,85,14.0,Oregon,Paul Gregutt,Pinot Gris,Oak Knoll
+17897,US,85,20.0,Oregon,Paul Gregutt,Pinot Gris,Hedgeline
+18019,US,92,18.0,Washington,Paul Gregutt,Pinot Gris,pb
+18125,US,89,11.0,Washington,Paul Gregutt,Pinot Gris,Chateau Ste. Michelle
+18493,US,86,15.0,Oregon,Paul Gregutt,Pinot Gris,Spindrift Cellars
+18752,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,Seven Hills
+18837,US,87,14.0,Oregon,Paul Gregutt,Pinot Gris,Foris
+18954,US,91,16.0,Oregon,Paul Gregutt,Pinot Gris,Spindrift Cellars
+19100,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,River's Edge
+19118,US,87,19.0,California,Matt Kettmann,Pinot Gris,Alma Rosa
+19318,US,94,33.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+19326,US,93,19.0,Oregon,Paul Gregutt,Pinot Gris,Sokol Blosser
+19343,US,88,16.0,California,Virginie Boone,Pinot Gris,Folie à Deux
+19442,US,85,12.0,Oregon,Paul Gregutt,Pinot Gris,Kings Ridge
+19490,US,85,18.0,Oregon,Paul Gregutt,Pinot Gris,Capitello
+19533,US,91,18.0,Oregon,Paul Gregutt,Pinot Gris,Iris Vineyards
+20039,US,91,24.0,Oregon,Paul Gregutt,Pinot Gris,Duck Pond
+20087,US,87,17.0,New York,Anna Lee C. Iijima,Pinot Gris,Inspire Moore
+20104,US,88,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+20122,US,88,20.0,New York,Anna Lee C. Iijima,Pinot Gris,Dr. Konstantin Frank
+20166,US,90,19.0,Oregon,Paul Gregutt,Pinot Gris,Adelsheim
+20289,US,88,17.0,California,Matt Kettmann,Pinot Gris,Tangent
+20421,US,88,16.0,Washington,Sean P. Sullivan,Pinot Gris,Julia's Dazzle
+20455,US,85,17.0,Oregon,Paul Gregutt,Pinot Gris,Archer
+20510,US,90,50.0,California,Jim Gordon,Pinot Gris,Lichen Estate
+20573,US,86,14.0,Oregon,Paul Gregutt,Pinot Gris,Oak Knoll
+20666,US,87,15.0,Oregon,Paul Gregutt,Pinot Gris,Illahe
+20841,US,89,22.0,Washington,Paul Gregutt,Pinot Gris,Gård
+20890,US,88,20.0,California,Virginie Boone,Pinot Gris,MacMurray Estate Vineyards
+21018,US,84,16.0,Washington,Sean P. Sullivan,Pinot Gris,Canoe Ridge
+21549,US,88,11.0,Washington,Paul Gregutt,Pinot Gris,Waterbrook
+21635,US,89,21.0,California,Virginie Boone,Pinot Gris,Philo Ridge
+22249,US,88,24.0,Oregon,Paul Gregutt,Pinot Gris,Phelps Creek
+22434,US,89,20.0,California,Virginie Boone,Pinot Gris,Navarro
+22473,US,86,22.0,Oregon,Paul Gregutt,Pinot Gris,Chehalem
+22601,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Rainstorm
+22633,US,88,19.0,Oregon,Paul Gregutt,Pinot Gris,Arbor Brook
+22923,US,88,15.0,Oregon,Paul Gregutt,Pinot Gris,Illahe
+22926,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Left Coast Cellars
+22967,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,Seven of Hearts
+23124,US,89,16.0,California,Jim Gordon,Pinot Gris,Boeger
+23154,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+23299,US,91,18.0,Oregon,Paul Gregutt,Pinot Gris,Vista Hills
+23609,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Ponzi
+23726,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Left Coast Cellars
+23965,US,94,30.0,Oregon,Paul Gregutt,Pinot Gris,Rex Hill
+24011,US,92,36.0,California,Virginie Boone,Pinot Gris,Occasio
+24203,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,Left Coast Cellars
+24364,US,86,12.0,Oregon,Paul Gregutt,Pinot Gris,Valley View
+24382,US,88,16.0,Oregon,Paul Gregutt,Pinot Gris,Highland Springs
+24421,US,92,22.0,Oregon,Paul Gregutt,Pinot Gris,Iris Vineyards
+24989,US,87,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+25039,US,88,16.0,Washington,Sean P. Sullivan,Pinot Gris,6 Under
+25295,US,86,18.0,Washington,Paul Gregutt,Pinot Gris,Goose Ridge
+25644,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Lemelson
+25746,US,91,20.0,California,Jim Gordon,Pinot Gris,Navarro
+25843,US,88,15.0,Washington,Paul Gregutt,Pinot Gris,Columbia Crest
+25946,US,87,12.0,Oregon,Paul Gregutt,Pinot Gris,Acrobat
+26176,US,89,29.0,Oregon,Paul Gregutt,Pinot Gris,Winter's Hill
+26188,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Brandborg
+26345,US,86,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Hosmer
+26389,US,93,16.0,Oregon,Paul Gregutt,Pinot Gris,David Hill
+27006,US,87,15.0,Washington,Sean P. Sullivan,Pinot Gris,Willow Crest
+27008,US,87,10.0,Washington,Paul Gregutt,Pinot Gris,14 Hands
+27018,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Panther Creek
+27106,US,83,15.0,Oregon,Paul Gregutt,Pinot Gris,Lundeen
+27213,US,83,10.0,Washington,Sean P. Sullivan,Pinot Gris,14 Hands
+27249,US,90,50.0,California,Jim Gordon,Pinot Gris,Lichen Estate
+27394,US,86,13.0,Washington,Sean P. Sullivan,Pinot Gris,Jones of Washington
+27397,US,86,9.0,Washington,Sean P. Sullivan,Pinot Gris,WildHaven
+27840,US,86,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Billsboro
+28146,US,90,15.0,Oregon,Paul Gregutt,Pinot Gris,David Hill
+28158,US,90,16.0,Oregon,Paul Gregutt,Pinot Gris,Sweet Cheeks
+28171,US,90,28.0,Oregon,Paul Gregutt,Pinot Gris,Antiquum Farm
+28304,US,86,13.0,Washington,Sean P. Sullivan,Pinot Gris,Jones of Washington
+28318,US,87,15.0,Oregon,Paul Gregutt,Pinot Gris,Silvan Ridge
+28329,US,86,14.0,Oregon,Paul Gregutt,Pinot Gris,Erath
+28371,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Daedalus Cellars
+28387,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,RoxyAnn
+28484,US,90,16.0,California,Jim Gordon,Pinot Gris,McFadden
+28512,US,87,20.0,Washington,Sean P. Sullivan,Pinot Gris,Ross Andrew
+28932,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Elizabeth Chambers
+29253,US,90,20.0,Washington,Sean P. Sullivan,Pinot Gris-Gewürztraminer,Cor Cellars
+29273,US,90,19.0,Washington,Paul Gregutt,Pinot Gris,Convergence Zone
+29564,US,83,14.0,Oregon,Michael Schachner,Pinot Gris,Silvan Ridge
+29579,US,82,13.0,Oregon,Michael Schachner,Pinot Gris,Willamette Valley Vineyards
+29669,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+29830,US,88,15.0,New York,Anna Lee C. Iijima,Pinot Gris,Thirsty Owl Wine Company
+29841,US,88,17.0,New York,Anna Lee C. Iijima,Pinot Gris,Billsboro
+29852,US,88,14.0,Washington,Sean P. Sullivan,Pinot Gris,Nine Hats
+30243,US,86,15.0,Oregon,Paul Gregutt,Pinot Gris,Silvan Ridge
+30309,US,85,16.0,Washington,Sean P. Sullivan,Pinot Gris,Goose Ridge
+30346,US,88,18.0,California,Virginie Boone,Pinot Gris,Hendry
+30376,US,91,20.0,California,Virginie Boone,Pinot Gris,Horse & Plow
+30629,US,87,20.0,California,Matt Kettmann,Pinot Gris,La Crema
+30705,US,88,13.0,Oregon,Paul Gregutt,Pinot Gris,Lujon
+30852,US,87,13.0,Oregon,Paul Gregutt,Pinot Gris,Oak Knoll
+30863,US,87,20.0,Oregon,Paul Gregutt,Pinot Gris,Torii Mor
+31103,US,86,25.0,Oregon,Paul Gregutt,Pinot Gris,Duck Pond
+31135,US,85,12.0,Washington,Sean P. Sullivan,Pinot Gris,Skyfall
+31157,US,92,20.0,California,Virginie Boone,Pinot Gris,Handley
+31167,US,90,21.0,Washington,Sean P. Sullivan,Pinot Gris,Ross Andrew
+31392,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Lumos
+31637,US,85,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Hosmer
+31718,US,88,22.0,Oregon,Paul Gregutt,Pinot Gris,Erath
+32041,US,91,24.0,Oregon,Paul Gregutt,Pinot Gris,Duck Pond
+32138,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,King Vintners
+32350,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Wine by Joe
+32660,US,87,15.0,Washington,Paul Gregutt,Pinot Gris,Columbia Crest
+32695,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Kings Ridge
+32727,US,90,24.0,California,Jim Gordon,Pinot Gris,Wargin Wines
+32969,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Elizabeth Chambers
+33141,US,85,18.0,Oregon,Paul Gregutt,Pinot Gris,Van Duzer
+33202,US,90,25.0,California,Virginie Boone,Pinot Gris,Buena Vista
+33208,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Iris Vineyards
+33449,US,88,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+33511,US,86,13.0,Oregon,Paul Gregutt,Pinot Gris,Kudos
+33552,US,88,30.0,California,Virginie Boone,Pinot Gris,Keller
+33820,US,88,13.0,Oregon,Paul Gregutt,Pinot Gris,O'Reilly's
+33861,US,87,12.0,Idaho,Sean P. Sullivan,Pinot Gris,Sawtooth
+33945,US,88,12.0,Washington,Paul Gregutt,Pinot Gris,Waterbrook
+34210,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,La Chouette
+34415,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Duck Pond
+34738,US,92,17.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+34745,US,92,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+34878,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,RoxyAnn
+34943,US,91,21.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+35476,US,90,14.0,Washington,Sean P. Sullivan,Pinot Gris,Nine Hats
+35521,US,87,19.0,Oregon,Paul Gregutt,Pinot Gris,Hawkins Cellars
+35740,US,91,13.0,Oregon,Paul Gregutt,Pinot Gris,Acrobat
+35748,US,91,35.0,Oregon,Paul Gregutt,Pinot Gris,Aubichon Cellars
+35869,US,87,17.0,Oregon,Paul Gregutt,Pinot Gris,Lumos
+35916,US,91,28.0,Oregon,Paul Gregutt,Pinot Gris,Antiquum Farm
+36055,US,90,19.0,Oregon,Paul Gregutt,Pinot Gris,Adelsheim
+36351,US,88,18.0,Washington,Paul Gregutt,Pinot Gris,Stella Fino
+36380,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Hawkins Cellars
+36407,US,87,13.0,Oregon,Paul Gregutt,Pinot Gris,Illahe
+36667,US,92,28.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+37081,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,Benton-Lane
+37226,US,90,24.0,California,Jim Gordon,Pinot Gris,Toulouse
+37409,US,90,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+37423,US,90,15.0,Oregon,Paul Gregutt,Pinot Gris,Scenic Valley Farms
+37782,US,87,13.0,Washington,Paul Gregutt,Pinot Gris,Milbrandt
+37859,US,89,13.0,Oregon,Paul Gregutt,Pinot Gris,A to Z
+37953,US,85,12.0,Washington,Sean P. Sullivan,Pinot Gris,Columbia Crest
+37954,US,85,19.0,Washington,Sean P. Sullivan,Pinot Gris,Convergence Zone
+38041,US,90,22.0,Oregon,Paul Gregutt,Pinot Gris,St. Innocent
+38127,US,90,21.0,Oregon,Paul Gregutt,Pinot Gris,WillaKenzie Estate
+38131,US,89,19.0,Oregon,Paul Gregutt,Pinot Gris,Lemelson
+38524,US,89,20.0,California,Matt Kettmann,Pinot Gris,Carlson
+38542,US,92,20.0,Oregon,Paul Gregutt,Pinot Gris,WillaKenzie Estate
+38614,US,88,13.0,Washington,Paul Gregutt,Pinot Gris,Waterbrook
+38616,US,88,12.0,Oregon,Paul Gregutt,Pinot Gris,A to Z
+38870,US,87,23.0,New York,Susan Kostrzewa,Pinot Gris,Red Newt Cellars
+38877,US,87,22.0,New York,Susan Kostrzewa,Pinot Gris,Wölffer
+39042,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,Hawkins Cellars
+39189,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,A Blooming Hill Vineyard
+39428,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Westrey
+39476,US,91,17.0,Oregon,Paul Gregutt,Pinot Gris,David Hill
+39825,US,90,17.0,Oregon,Paul Gregutt,Pinot Gris,Benton-Lane
+39837,US,87,14.0,Washington,Sean P. Sullivan,Pinot Gris,Jones of Washington
+40010,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,Pino
+40090,US,90,25.0,Oregon,Paul Gregutt,Pinot Gris,Aubichon Cellars
+40100,US,90,20.0,Oregon,Paul Gregutt,Pinot Gris,Chehalem
+40118,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,Van Duzer
+40122,US,87,25.0,Washington,Sean P. Sullivan,Pinot Gris,Bontzu
+40218,US,86,16.0,Washington,Paul Gregutt,Pinot Gris,Maryhill
+40251,US,91,20.0,Oregon,Paul Gregutt,Pinot Gris,The Four Graces
+40371,US,91,22.0,California,Matt Kettmann,Pinot Gris,Flying Goat Cellars
+40384,US,87,12.0,Washington,Sean P. Sullivan,Pinot Gris,Lone Birch
+40683,US,87,15.0,Washington,Paul Gregutt,Pinot Gris,Mercer
+40755,US,82,12.0,Oregon,Paul Gregutt,Pinot Gris,Château Bianca
+40998,US,86,19.0,Washington,Sean P. Sullivan,Pinot Gris,Boomtown
+41049,US,89,20.0,Oregon,Paul Gregutt,Pinot Gris,Keeler
+41272,US,91,18.0,Oregon,Paul Gregutt,Pinot Gris,Wy'East Vineyards
+41358,US,86,12.0,Oregon,Paul Gregutt,Pinot Gris,Château Bianca
+41572,US,86,13.0,America,Sean P. Sullivan,Pinot Gris,Rascal
+41832,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,Benton-Lane
+42005,US,87,25.0,Oregon,Paul Gregutt,Pinot Gris,Portlandia
+42158,US,91,15.0,Oregon,Paul Gregutt,Pinot Gris,David Hill
+42376,US,83,13.0,California,Jim Gordon,Pinot Gris,Entwine
+42431,US,88,20.0,New York,Anna Lee C. Iijima,Pinot Gris,Osprey's Dominion
+42473,US,89,20.0,Oregon,Paul Gregutt,Pinot Gris,Raptor Ridge
+42751,US,91,17.0,Oregon,Paul Gregutt,Pinot Gris,Ponzi
+42763,US,91,20.0,Oregon,Paul Gregutt,Pinot Gris,Coelho
+42840,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Left Coast Cellars
+42870,US,89,17.0,Oregon,Paul Gregutt,Pinot Gris,Coeur de Terre
+43191,US,90,26.0,California,Jim Gordon,Pinot Gris,Donkey & Goat
+43490,US,90,15.0,California,Jim Gordon,Pinot Gris,Kendall-Jackson
+43621,US,84,23.0,Virginia,Alexander Peartree,Pinot Gris,Early Mountain
+43762,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,Winter's Hill
+44029,US,87,14.0,Oregon,Paul Gregutt,Pinot Gris,Grandmaster
+44306,US,88,15.0,Oregon,Paul Gregutt,Pinot Gris,Eola Hills
+44429,US,90,20.0,California,Jim Gordon,Pinot Gris,Handley
+44438,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Lumos
+44831,US,86,25.0,Oregon,Paul Gregutt,Pinot Gris,Gypsy Dancer
+45098,US,85,14.0,Washington,Sean P. Sullivan,Pinot Gris,Alexandria Nicole
+45651,US,86,12.0,Oregon,Paul Gregutt,Pinot Gris,Château Bianca
+45667,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Ancient Cellars
+45831,US,84,20.0,New York,Anna Lee C. Iijima,Pinot Gris,Hector Wine Company
+45981,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Foris
+46245,US,86,15.0,Oregon,Paul Gregutt,Pinot Gris,Kramer
+46685,US,93,38.0,Oregon,Paul Gregutt,Pinot Gris,Ponzi
+46811,US,86,10.0,Washington,Paul Gregutt,Pinot Gris,Columbia Winery
+46996,US,86,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Adirondack Winery
+47118,US,91,21.0,Oregon,Paul Gregutt,Pinot Gris,Owen Roe
+47124,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Wy'East Vineyards
+47483,US,91,12.0,Washington,Paul Gregutt,Pinot Gris,Jones of Washington
+47865,US,88,12.0,Washington,Paul Gregutt,Pinot Gris,Waterbrook
+47889,US,88,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+47892,US,88,14.0,New York,Anna Lee C. Iijima,Pinot Gris,Lakewood
+48045,US,87,13.0,Oregon,Paul Gregutt,Pinot Gris,Eola Hills
+48162,US,91,45.0,Oregon,Paul Gregutt,Pinot Gris,Aubichon Cellars
+48843,US,90,35.0,Oregon,Paul Gregutt,Pinot Gris,Aubichon Cellars
+49014,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,A to Z
+49073,US,87,12.0,Washington,Sean P. Sullivan,Pinot Gris,Waterbrook
+49082,US,87,20.0,California,Virginie Boone,Pinot Gris,Horse & Plow
+49448,US,91,17.0,Washington,Paul Gregutt,Pinot Gris,Convergence Zone
+49661,US,87,12.0,Oregon,Paul Gregutt,Pinot Gris,Seven Hills
+49807,US,91,26.0,Oregon,Paul Gregutt,Pinot Gris,Carabella
+50218,US,87,32.0,California,Virginie Boone,Pinot Gris,FlyWine
+50277,US,91,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+50525,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Jovino
+50537,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Wine by Joe
+50846,US,85,18.0,Oregon,Michael Schachner,Pinot Gris,Sokol Blosser
+50851,US,83,20.0,Oregon,Paul Gregutt,Pinot Gris,Deer Creek
+51132,US,85,20.0,Washington,Paul Gregutt,Pinot Gris,Vin du Lac
+51328,US,90,12.0,Washington,Paul Gregutt,Pinot Gris,Willow Crest
+51533,US,86,18.0,Washington,Paul Gregutt,Pinot Gris,Vin du Lac
+51545,US,91,22.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+51685,US,86,22.0,California,Virginie Boone,Pinot Gris,Brassfield
+51912,US,88,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+52729,US,84,15.0,Oregon,Paul Gregutt,Pinot Gris,Siltstone
+53473,US,87,15.0,New York,Anna Lee C. Iijima,Pinot Gris,Thirsty Owl Wine Company
+53616,US,89,13.0,Washington,Sean P. Sullivan,Pinot Gris,Mercer
+53797,US,91,22.0,Oregon,Paul Gregutt,Pinot Gris,Iris Vineyards
+53977,US,90,32.0,Oregon,Paul Gregutt,Pinot Gris,Big Table Farm
+54021,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,Portlandia
+54071,US,85,15.0,Oregon,Paul Gregutt,Pinot Gris,Château Bianca
+54176,US,90,16.0,Oregon,Paul Gregutt,Pinot Gris,Provincial Vineyards
+54434,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Keeler
+54536,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Rainstorm
+54608,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,The Four Graces
+54955,US,93,48.0,Oregon,Paul Gregutt,Pinot Gris,Archery Summit
+54962,US,93,34.0,California,Matt Kettmann,Pinot Gris,Aequorea
+55125,US,85,18.0,Michigan,Alexander Peartree,Pinot Gris,Black Star Farms
+55255,US,91,17.0,Oregon,Paul Gregutt,Pinot Gris,Cristom
+55294,US,86,12.0,Washington,Sean P. Sullivan,Pinot Gris,Lone Birch
+55419,US,87,18.0,Washington,Paul Gregutt,Pinot Gris,Vin du Lac
+55515,US,83,11.0,Washington,Sean P. Sullivan,Pinot Gris,The Great Oregon Wine Company
+55595,US,88,14.0,New York,Anna Lee C. Iijima,Pinot Gris,Lakewood
+56424,US,91,32.0,Oregon,Paul Gregutt,Pinot Gris,Alexana
+56530,US,87,14.0,Oregon,Paul Gregutt,Pinot Gris,Erath
+56559,US,88,24.0,New York,Anna Lee C. Iijima,Pinot Gris,Red Newt Cellars
+57147,US,91,16.0,Oregon,Paul Gregutt,Pinot Gris,Iris Vineyards
+57160,US,91,26.0,Oregon,Paul Gregutt,Pinot Gris,Hawks View
+57490,US,86,19.0,Oregon,Paul Gregutt,Pinot Gris,Corvallis Cellars
+57527,US,88,16.0,Oregon,Paul Gregutt,Pinot Gris,Willamette Valley Vineyards
+57951,US,87,15.0,Oregon,Paul Gregutt,Pinot Gris,Siltstone
+58068,US,89,28.0,Oregon,Paul Gregutt,Pinot Gris,Chehalem
+58307,US,91,28.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+58435,US,87,14.0,Oregon,Paul Gregutt,Pinot Gris,Foris
+58945,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Lumos
+59048,US,85,28.0,California,Jim Gordon,Pinot Gris,Las Positas
+59060,US,84,14.0,Washington,Sean P. Sullivan,Pinot Gris,Willow Crest
+59069,US,88,24.0,New York,Anna Lee C. Iijima,Pinot Gris,Red Newt Cellars
+59532,US,87,15.0,New York,Anna Lee C. Iijima,Pinot Gris,Thirsty Owl Wine Company
+59579,US,87,14.0,Oregon,Paul Gregutt,Pinot Gris,Spindrift Cellars
+59652,US,85,16.0,California,Virginie Boone,Pinot Gris,River Road
+59654,US,85,15.0,Washington,Sean P. Sullivan,Pinot Gris,Canoe Ridge
+59681,US,92,25.0,California,Virginie Boone,Pinot Gris,Les Belles Collines
+60197,US,88,20.0,New York,Anna Lee C. Iijima,Pinot Gris,Osprey's Dominion
+60283,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Spindrift Cellars
+60323,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,Winter's Hill
+60458,US,88,20.0,California,Virginie Boone,Pinot Gris,MacMurray Estate Vineyards
+60517,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Montinore
+60545,US,89,25.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+60917,US,91,20.0,Oregon,Paul Gregutt,Pinot Gris,Soléna
+61079,US,88,13.0,Washington,Paul Gregutt,Pinot Gris,Boomtown
+61373,US,91,28.0,Oregon,Paul Gregutt,Pinot Gris,Antiquum Farm
+61407,US,83,15.0,Oregon,Paul Gregutt,Pinot Gris,Redgate
+61528,US,86,15.0,Oregon,Paul Gregutt,Pinot Gris,Walnut City WineWorks
+61531,US,86,15.0,Oregon,Paul Gregutt,Pinot Gris,Yamhill Valley
+62000,US,86,15.0,Washington,Paul Gregutt,Pinot Gris,Mercer
+62024,US,86,20.0,Oregon,Sean P. Sullivan,Pinot Gris,Pyrenees
+62036,US,86,15.0,Washington,Sean P. Sullivan,Pinot Gris,Canoe Ridge
+62119,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Adelsheim
+62134,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,Zimri Cellars
+62148,US,86,14.0,Oregon,Paul Gregutt,Pinot Gris,Kudos
+62157,US,90,9.0,Washington,Paul Gregutt,Pinot Gris,Hyatt Vineyards
+62342,US,90,15.0,Oregon,Paul Gregutt,Pinot Gris,A to Z
+62471,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,Ancient Cellars
+62748,US,85,16.0,Oregon,Paul Gregutt,Pinot Gris,Seven Hills
+63245,US,90,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+63275,US,88,28.0,California,Matt Kettmann,Pinot Gris,Hahn
+63424,US,90,12.0,Oregon,Paul Gregutt,Pinot Gris,Lujon
+63603,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,Henry Estate
+63728,US,88,25.0,California,Virginie Boone,Pinot Gris,Terlato
+63939,US,88,15.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+64041,US,89,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+64045,US,89,18.0,Washington,Sean P. Sullivan,Pinot Gris,Tranche
+64215,US,86,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Hosmer
+64328,US,92,22.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+64480,US,88,28.0,California,Matt Kettmann,Pinot Gris,Hahn
+64769,US,87,17.0,California,Matt Kettmann,Pinot Gris,Tangent
+64921,US,88,22.0,Oregon,Paul Gregutt,Pinot Gris,Iris Vineyards
+64976,US,85,17.0,Oregon,Paul Gregutt,Pinot Gris,Silvan Ridge
+65278,US,86,10.0,Washington,Sean P. Sullivan,Pinot Gris,Sagelands
+65507,US,91,17.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+65509,US,91,20.0,California,Virginie Boone,Pinot Gris,Landmark
+65752,US,92,21.0,Oregon,Paul Gregutt,Pinot Gris,WillaKenzie Estate
+65758,US,92,19.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+65761,US,92,22.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+65791,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Left Coast Cellars
+65794,US,90,24.0,Oregon,Paul Gregutt,Pinot Gris,Hawks View
+65897,US,88,13.0,Washington,Sean P. Sullivan,Pinot Gris,Milbrandt
+66024,US,90,25.0,California,Matt Kettmann,Pinot Gris,Babcock
+66249,US,91,29.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+66254,US,91,23.0,Oregon,Paul Gregutt,Pinot Gris,Lachini
+66421,US,88,26.0,California,Jim Gordon,Pinot Gris,Balo
+66515,US,88,25.0,Oregon,Paul Gregutt,Pinot Gris,Deer Creek
+66704,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Foris
+66789,US,92,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+66898,US,92,21.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+67049,US,87,20.0,Oregon,Paul Gregutt,Pinot Gris,Walnut City WineWorks
+67190,US,92,20.0,Oregon,Paul Gregutt,Pinot Gris,Antiquum Farm
+67243,US,87,13.0,Washington,Sean P. Sullivan,Pinot Gris,Barnard Griffin
+67316,US,89,14.0,California,Matt Kettmann,Pinot Gris,Hahn
+67344,US,89,24.0,California,Jim Gordon,Pinot Gris,Balo
+67454,US,94,41.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+67492,US,88,23.0,Oregon,Paul Gregutt,Pinot Gris,Omero
+67534,US,87,13.0,Oregon,Paul Gregutt,Pinot Gris,A to Z
+67674,US,85,22.0,California,Matt Kettmann,Pinot Gris,Villa San Juliette
+67693,US,85,20.0,Washington,Sean P. Sullivan,Pinot Gris,Almquist
+67726,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Del Rio
+67882,US,85,15.0,Washington,Paul Gregutt,Pinot Gris,Boomtown
+67900,US,88,19.0,Oregon,Paul Gregutt,Pinot Gris,Lemelson
+68570,US,91,18.0,Oregon,Paul Gregutt,Pinot Gris,Arbor Brook
+68638,US,85,15.0,Oregon,Paul Gregutt,Pinot Gris,Cardwell Hill
+68812,US,86,14.0,California,Virginie Boone,Pinot Gris,Monte Smith
+69102,US,85,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Ventosa
+69292,US,85,14.0,Oregon,Paul Gregutt,Pinot Gris,Agate Ridge
+69433,US,87,22.0,Oregon,Paul Gregutt,Pinot Gris,Silvan Ridge
+69613,US,91,35.0,California,Matt Kettmann,Pinot Gris,Beauregard
+69872,US,86,15.0,Oregon,Paul Gregutt,Pinot Gris,Walnut City WineWorks
+70018,US,84,9.0,Washington,Paul Gregutt,Pinot Gris,Columbia Winery
+70057,US,86,12.0,Idaho,Sean P. Sullivan,Pinot Gris,Sawtooth
+70143,US,92,23.0,Oregon,Paul Gregutt,Pinot Gris,WillaKenzie Estate
+70287,US,90,18.0,California,Virginie Boone,Pinot Gris,Balletto
+70326,US,83,24.0,Virginia,Alexander Peartree,Pinot Gris,Casanel
+70441,US,92,19.0,Oregon,Paul Gregutt,Pinot Gris,Lemelson
+70516,US,90,14.0,New York,Anna Lee C. Iijima,Pinot Gris,Lakewood
+71995,US,87,14.0,New York,Anna Lee C. Iijima,Pinot Gris,Lakewood
+72011,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,A Blooming Hill Vineyard
+72094,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+72095,US,91,28.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+72129,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,Del Rio
+72252,US,91,20.0,Oregon,Paul Gregutt,Pinot Gris,The Four Graces
+72278,US,88,13.0,Washington,Paul Gregutt,Pinot Gris,Milbrandt
+72283,US,87,12.0,Washington,Paul Gregutt,Pinot Gris,Maryhill
+72442,US,87,15.0,California,Jim Gordon,Pinot Gris,Kendall-Jackson
+72494,US,85,22.0,Oregon,Paul Gregutt,Pinot Gris,LaVelle
+72845,US,86,19.0,Oregon,Paul Gregutt,Pinot Gris,Corvallis Cellars
+72901,US,91,27.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+73230,US,92,20.0,Oregon,Paul Gregutt,Pinot Gris,Antiquum Farm
+73533,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Vista Hills
+73641,US,91,21.0,Oregon,Paul Gregutt,Pinot Gris,Owen Roe
+73686,US,91,15.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+73692,US,91,15.0,Oregon,Paul Gregutt,Pinot Gris,Elk Cove
+73935,US,88,14.0,Oregon,Paul Gregutt,Pinot Gris,Rainstorm
+74009,US,89,15.0,Washington,Sean P. Sullivan,Pinot Gris,Willow Crest
+74156,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Oak Knoll
+74539,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Bridgeview
+74546,US,91,20.0,Oregon,Paul Gregutt,Pinot Gris,Soléna
+74558,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Elk Cove
+74695,US,84,18.0,Oregon,Paul Gregutt,Pinot Gris,Torii Mor
+74863,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Vista Hills
+74866,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Seven Hills
+75429,US,85,13.0,Washington,Paul Gregutt,Pinot Gris,Milbrandt
+75471,US,87,12.0,Washington,Sean P. Sullivan,Pinot Gris,Blue Pirate
+75568,US,88,19.0,Oregon,Paul Gregutt,Pinot Gris,Winter's Hill
+75579,US,88,15.0,Oregon,Paul Gregutt,Pinot Gris,Eola Hills
+75701,US,90,34.0,California,Virginie Boone,Pinot Gris,J Vineyards & Winery
+75741,US,89,11.0,Washington,Paul Gregutt,Pinot Gris,Chateau Ste. Michelle
+76000,US,89,19.0,Oregon,Paul Gregutt,Pinot Gris,Apolloni
+76372,US,86,20.0,Oregon,Paul Gregutt,Pinot Gris,Lazy River
+76512,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,Del Rio
+76522,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,Pino
+76525,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,Silvan Ridge
+76628,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+76630,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Lujon
+76780,US,92,29.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+76800,US,87,17.0,California,Matt Kettmann,Pinot Gris,Tangent
+76816,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,Joel Gott
+76944,US,91,28.0,California,Jim Gordon,Pinot Gris,Donkey & Goat
+77157,US,90,17.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+77267,US,85,24.0,New York,Anna Lee C. Iijima,Pinot Gris,Red Newt Cellars
+77382,US,87,20.0,California,Matt Kettmann,Pinot Gris,La Crema
+77564,US,91,20.0,Oregon,Paul Gregutt,Pinot Gris,Soléna
+77742,US,86,19.0,Washington,Paul Gregutt,Pinot Gris,Convergence Zone
+77769,US,91,12.0,Oregon,Paul Gregutt,Pinot Gris,Abiqua Wind
+78529,US,89,22.0,California,Jim Gordon,Pinot Gris,Horse & Plow
+78908,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Foris
+78947,US,88,22.0,California,Matt Kettmann,Pinot Gris,Stephen Ross
+78997,US,85,22.0,Oregon,Paul Gregutt,Pinot Gris,Kramer
+79195,US,87,15.0,California,Jim Gordon,Pinot Gris,Boeger
+79300,US,88,18.0,California,Virginie Boone,Pinot Gris,Folie à Deux
+79797,US,90,26.0,California,Matt Kettmann,Pinot Gris,Siot
+79850,US,84,16.0,Oregon,Sean P. Sullivan,Pinot Gris,Del Rio
+80013,US,90,20.0,Oregon,Paul Gregutt,Pinot Gris,Portlandia
+80100,US,87,20.0,Oregon,Paul Gregutt,Pinot Gris,David Hill
+80598,US,92,28.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+80995,US,85,22.0,Washington,Sean P. Sullivan,Pinot Gris,14 Hands
+80997,US,85,22.0,Washington,Sean P. Sullivan,Pinot Gris,Gård
+81460,US,89,16.0,Washington,Paul Gregutt,Pinot Gris,Airfield Estates
+81509,US,87,15.0,California,Matt Kettmann,Pinot Gris,Hahn
+81687,US,88,14.0,California,Matt Kettmann,Pinot Gris,Hahn
+81709,US,87,30.0,California,Virginie Boone,Pinot Gris,Chalk Hill
+81714,US,87,20.0,Washington,Sean P. Sullivan,Pinot Gris,Gård
+81741,US,85,15.0,Washington,Sean P. Sullivan,Pinot Gris,Canoe Ridge
+81840,US,89,20.0,Oregon,Paul Gregutt,Pinot Gris,Treos
+82073,US,88,20.0,New York,Anna Lee C. Iijima,Pinot Gris,Osprey's Dominion
+82094,US,85,14.0,Oregon,Paul Gregutt,Pinot Gris,Stolen Identity
+82099,US,85,18.0,Oregon,Paul Gregutt,Pinot Gris,Harry & David
+82107,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Seven Sails
+82298,US,85,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Hosmer
+82373,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,Willamette Valley Vineyards
+82598,US,88,19.0,Washington,Sean P. Sullivan,Pinot Gris,Boomtown
+82707,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Boedecker Cellars
+82924,US,86,26.0,Oregon,Paul Gregutt,Pinot Gris,Hawks View
+83079,US,88,10.0,Oregon,Michael Schachner,Pinot Gris,Montinore
+83107,US,89,25.0,Oregon,Paul Gregutt,Pinot Gris,Arbor Brook
+83423,US,90,25.0,California,Jim Gordon,Pinot Gris,Maldonado
+83426,US,90,19.0,Oregon,Paul Gregutt,Pinot Gris,Apolloni
+83442,US,88,13.0,Oregon,Paul Gregutt,Pinot Gris,Eola Hills
+83787,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Foris
+83916,US,83,14.0,Oregon,Paul Gregutt,Pinot Gris,Agate Ridge
+84035,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,Winter's Hill
+84115,US,87,13.0,Oregon,Paul Gregutt,Pinot Gris,Kudos
+84437,US,87,12.0,Washington,Paul Gregutt,Pinot Gris,Maryhill
+84506,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Adelsheim
+85192,US,90,16.0,Oregon,Paul Gregutt,Pinot Gris,Sweet Cheeks
+85436,US,90,15.0,Washington,Paul Gregutt,Pinot Gris,Cuvée Lucia
+85658,US,88,16.0,Oregon,Paul Gregutt,Pinot Gris,Melrose
+86430,US,85,12.0,Washington,Paul Gregutt,Pinot Gris,Columbia Crest
+86542,US,85,12.0,Oregon,Paul Gregutt,Pinot Gris,Dundee Springs
+86856,US,84,16.0,Oregon,Paul Gregutt,Pinot Gris,Del Rio
+86857,US,84,24.0,California,Virginie Boone,Pinot Gris,Merisi
+87120,US,82,20.0,Washington,Sean P. Sullivan,Pinot Gris,Maragas
+87272,US,92,18.0,California,Virginie Boone,Pinot Gris,Hendry
+87289,US,92,19.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+87290,US,92,21.0,Oregon,Paul Gregutt,Pinot Gris,WillaKenzie Estate
+87348,US,91,25.0,Washington,Paul Gregutt,Pinot Gris,Cerulean
+87497,US,87,15.0,Washington,Paul Gregutt,Pinot Gris,Mercer
+87530,US,92,22.0,Oregon,Paul Gregutt,Pinot Gris,The Eyrie Vineyards
+87669,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Lazy River
+87821,US,88,15.0,Washington,Paul Gregutt,Pinot Gris,Northwest Cellars
+88275,US,88,16.0,Oregon,Paul Gregutt,Pinot Gris,Coelho
+88276,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,Coeur de Terre
+88490,US,89,22.0,Oregon,Paul Gregutt,Pinot Gris,Goodfellow
+88519,US,84,16.0,Oregon,Paul Gregutt,Pinot Gris,Tyee Wine Cellars
+88815,US,88,25.0,California,Matt Kettmann,Pinot Gris,Beauregard
+88821,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Seven Sails
+88849,US,83,17.0,New York,Susan Kostrzewa,Pinot Gris,Dr. Konstantin Frank
+89035,US,90,25.0,Oregon,Paul Gregutt,Pinot Gris,Aubichon Cellars
+89045,US,90,20.0,Oregon,Paul Gregutt,Pinot Gris,Chehalem
+89563,US,90,15.0,Oregon,Paul Gregutt,Pinot Gris,Redhawk
+90058,US,92,48.0,Oregon,Paul Gregutt,Pinot Gris,Archery Summit
+90060,US,90,16.0,Oregon,Paul Gregutt,Pinot Gris,Rex Hill
+90067,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Spindrift Cellars
+90308,US,88,14.0,Oregon,Paul Gregutt,Pinot Gris,Rainstorm
+90429,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Ancient Cellars
+90561,US,88,13.0,Oregon,Paul Gregutt,Pinot Gris,Acrobat
+91482,US,91,28.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+91580,US,88,19.0,California,Jim Gordon,Pinot Gris,Philo Ridge
+91583,US,88,22.0,California,Matt Kettmann,Pinot Gris,Stephen Ross
+91762,US,91,18.0,California,Virginie Boone,Pinot Gris,Balletto
+91885,US,85,13.0,Washington,Sean P. Sullivan,Pinot Gris,Hyatt
+92092,US,91,14.0,Oregon,Paul Gregutt,Pinot Gris,Oak Knoll
+92321,US,89,14.0,Oregon,Paul Gregutt,Pinot Gris,Wine by Joe
+92465,US,88,14.0,Oregon,Paul Gregutt,Pinot Gris,Erath
+92699,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,Benton-Lane
+92776,US,87,15.0,California,Matt Kettmann,Pinot Gris,Hahn
+92801,US,87,16.0,California,Virginie Boone,Pinot Gris,McFadden
+93085,US,92,28.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+93294,US,86,17.0,Oregon,Paul Gregutt,Pinot Gris,Emerson
+93339,US,87,21.0,California,Virginie Boone,Pinot Gris,Philo Ridge
+93877,US,88,13.0,Oregon,Paul Gregutt,Pinot Gris,Terrapin Cellars
+93971,US,83,16.0,Oregon,Paul Gregutt,Pinot Gris,Tyee Wine Cellars
+94110,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+94314,US,85,17.0,Oregon,Paul Gregutt,Pinot Gris,Benton-Lane
+94353,US,85,16.0,Washington,Paul Gregutt,Pinot Gris,Goose Ridge
+94502,US,89,21.0,California,Virginie Boone,Pinot Gris,Philo Ridge
+94713,US,91,23.0,Oregon,Paul Gregutt,Pinot Gris,Lachini
+94848,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+94901,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,Willamette Valley Vineyards
+95017,US,89,20.0,Oregon,Paul Gregutt,Pinot Gris,Seven Sails
+95112,US,89,17.0,New York,Anna Lee C. Iijima,Pinot Gris,Hazlitt 1852 Vineyards
+95165,US,91,18.0,California,Virginie Boone,Pinot Gris,Balletto
+95897,US,87,15.0,Oregon,Paul Gregutt,Pinot Gris,Tyee
+96039,US,87,19.0,California,Matt Kettmann,Pinot Gris,Alma Rosa
+96103,US,87,20.0,Washington,Sean P. Sullivan,Pinot Gris,Vin du Lac
+96211,US,85,23.0,Oregon,Paul Gregutt,Pinot Gris,Coelho
+96475,US,85,12.0,Oregon,Paul Gregutt,Pinot Gris,Duck Pond
+96476,US,85,15.0,Oregon,Paul Gregutt,Pinot Gris,Erath
+96743,US,88,18.0,New York,Anna Lee C. Iijima,Pinot Gris,Atwater
+96791,US,88,13.0,Oregon,Paul Gregutt,Pinot Gris,Wildewood
+97000,US,87,18.0,Oregon,Paul Gregutt,Pinot Gris,WillaKenzie Estate
+97055,US,86,15.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+97339,US,88,16.0,Oregon,Paul Gregutt,Pinot Gris,Del Rio
+97533,US,87,12.0,Oregon,Paul Gregutt,Pinot Gris,Oak Knoll
+98016,US,91,20.0,Oregon,Paul Gregutt,Pinot Gris,Soléna
+98196,US,86,15.0,Oregon,Paul Gregutt,Pinot Gris,Château Bianca
+98356,US,85,17.0,Oregon,Paul Gregutt,Pinot Gris,Benton-Lane
+98854,US,88,21.0,Oregon,Paul Gregutt,Pinot Gris,Cória
+99109,US,92,18.0,Oregon,Paul Gregutt,Pinot Gris,Panther Creek
+99169,US,90,16.0,Oregon,Paul Gregutt,Pinot Gris,River's Edge
+99243,US,88,14.0,Washington,Sean P. Sullivan,Pinot Gris,Gård
+99766,US,88,16.0,Oregon,Paul Gregutt,Pinot Gris,Willamette Valley Vineyards
+100058,US,87,15.0,Washington,Paul Gregutt,Pinot Gris,Airfield Estates
+100075,US,87,20.0,California,Virginie Boone,Pinot Gris,Occasio
+100184,US,87,15.0,Washington,Paul Gregutt,Pinot Gris,Seven Hills
+100262,US,93,30.0,Oregon,Paul Gregutt,Pinot Gris,Aubichon Cellars
+100516,US,88,16.0,California,Jim Gordon,Pinot Gris,McFadden
+100757,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Vista Hills
+100770,US,88,19.0,Oregon,Paul Gregutt,Pinot Gris,Anne Amie
+100839,US,85,12.0,Washington,Sean P. Sullivan,Pinot Gris,Skyfall
+100918,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,J. Scott Cellars
+101014,US,83,12.0,Idaho,Sean P. Sullivan,Pinot Gris,Sawtooth
+101027,US,83,16.0,Idaho,Sean P. Sullivan,Pinot Gris,3 Horse Ranch Vineyards
+101055,US,89,20.0,Oregon,Sean P. Sullivan,Pinot Gris,Sineann
+101299,US,83,14.0,Oregon,Paul Gregutt,Pinot Gris,Hinman
+101382,US,88,16.0,California,Jim Gordon,Pinot Gris,McFadden
+101501,US,88,13.0,Washington,Sean P. Sullivan,Pinot Gris,Milbrandt
+101576,US,86,18.0,Virginia,Carrie Dykes,Pinot Gris,Casanel
+101640,US,89,19.0,California,Matt Kettmann,Pinot Gris,Alma Rosa
+101752,US,88,19.0,California,Matt Kettmann,Pinot Gris,Sinor-LaVallee
+102122,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Elk Cove
+102468,US,86,11.0,Washington,Sean P. Sullivan,Pinot Gris,Latah Creek
+102678,US,83,19.0,Washington,Sean P. Sullivan,Pinot Gris,Convergence Zone
+102692,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Vista Hills
+103209,US,86,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Billsboro
+103358,US,87,17.0,New York,Anna Lee C. Iijima,Pinot Gris,Anthony Road
+103564,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Panther Creek
+103960,US,87,17.0,Oregon,Paul Gregutt,Pinot Gris,Sweet Cheeks
+104059,US,92,20.0,Oregon,Paul Gregutt,Pinot Gris,Cristom
+104576,US,90,30.0,California,Virginie Boone,Pinot Gris,Keller Estate
+104619,US,86,17.0,New York,Anna Lee C. Iijima,Pinot Gris,Ventosa
+104935,US,86,14.0,Oregon,Paul Gregutt,Pinot Gris,Wine by Joe
+104938,US,86,19.0,Oregon,Paul Gregutt,Pinot Gris,Lemelson
+105004,US,88,20.0,Oregon,Paul Gregutt,Pinot Gris,Coelho
+105015,US,92,12.0,Oregon,Paul Gregutt,Pinot Gris,Lujon
+105131,US,87,13.0,Idaho,Sean P. Sullivan,Pinot Gris,Sawtooth
+105245,US,90,17.0,Oregon,Paul Gregutt,Pinot Gris,Ponzi
+105525,US,92,29.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+105623,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Lange
+105769,US,89,13.0,Washington,Paul Gregutt,Pinot Gris,Lone Birch
+105837,US,87,20.0,Oregon,Paul Gregutt,Pinot Gris,Coelho
+105962,US,88,22.0,Oregon,Paul Gregutt,Pinot Gris,Bell
+106054,US,87,15.0,Oregon,Paul Gregutt,Pinot Gris,Siltstone
+106234,US,85,16.0,Washington,Sean P. Sullivan,Pinot Gris,Goose Ridge
+106299,US,87,16.0,Oregon,Paul Gregutt,Pinot Gris,Del Rio
+106312,US,88,14.0,Washington,Sean P. Sullivan,Pinot Gris,Nine Hats
+106634,US,87,12.0,Oregon,Paul Gregutt,Pinot Gris,Acrobat
+107679,US,90,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+107834,US,88,29.0,Oregon,Paul Gregutt,Pinot Gris,Winter's Hill
+107904,US,90,14.0,Oregon,Paul Gregutt,Pinot Gris,Acrobat
+108057,US,88,14.0,Oregon,Paul Gregutt,Pinot Gris,Erath
+108097,US,86,13.0,Washington,Sean P. Sullivan,Pinot Gris,Waterbrook
+108349,US,93,22.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+108493,US,88,16.0,Oregon,Paul Gregutt,Pinot Gris,Girardet
+108546,US,89,12.0,Oregon,Paul Gregutt,Pinot Gris,Firesteed
+109236,US,86,12.0,Washington,Paul Gregutt,Pinot Gris,Nine Hats
+109302,US,86,14.0,Oregon,Sean P. Sullivan,Pinot Gris,Foris
+109977,US,89,20.0,Oregon,Paul Gregutt,Pinot Gris,WillaKenzie Estate
+110152,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,Winter's Hill
+110580,US,86,13.0,Oregon,Paul Gregutt,Pinot Gris,Kings Ridge
+110905,US,86,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Hosmer
+110938,US,83,13.0,Oregon,Paul Gregutt,Pinot Gris,Belle Vallée
+111288,US,86,13.0,Washington,Sean P. Sullivan,Pinot Gris,Waterbrook
+111430,US,87,22.0,Oregon,Paul Gregutt,Pinot Gris,Erath
+111842,US,91,17.0,Oregon,Paul Gregutt,Pinot Gris,Seven Hills
+112225,US,85,15.0,California,Jim Gordon,Pinot Gris,McFadden
+112413,US,88,15.0,Oregon,Paul Gregutt,Pinot Gris,Siltstone
+112464,US,89,25.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+112672,US,94,42.0,Oregon,Paul Gregutt,Pinot Gris,Archery Summit
+113045,US,90,20.0,California,Jim Gordon,Pinot Gris,Navarro
+113171,US,87,20.0,Oregon,Paul Gregutt,Pinot Gris,Gersing
+113421,US,87,14.0,Oregon,Paul Gregutt,Pinot Gris,Grandmaster
+113449,US,90,19.0,Oregon,Paul Gregutt,Pinot Gris,Elk Cove
+113508,US,90,48.0,California,Virginie Boone,Pinot Gris,Breathless
+113606,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,Brandborg
+113645,US,92,18.0,Washington,Paul Gregutt,Pinot Gris,Tranche
+113693,US,90,16.0,Oregon,Paul Gregutt,Pinot Gris,Rex Hill
+113742,US,88,18.0,Oregon,Paul Gregutt,Pinot Gris,Vercingetorix VX
+114177,US,87,22.0,New York,Anna Lee C. Iijima,Pinot Gris,Brooklyn Oenology
+114416,US,88,17.0,Oregon,Paul Gregutt,Pinot Gris,Johan Vineyards
+114578,US,86,21.0,Oregon,Paul Gregutt,Pinot Gris,Methven Family Vineyards
+114648,US,88,35.0,Oregon,Paul Gregutt,Pinot Gris,Left Coast Cellars
+114677,US,87,10.0,Washington,Sean P. Sullivan,Pinot Gris,14 Hands
+114885,US,92,48.0,Oregon,Paul Gregutt,Pinot Gris,Archery Summit
+115387,US,88,15.0,Oregon,Paul Gregutt,Pinot Gris,Pike Road
+115441,US,87,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Sheldrake Point
+115469,US,90,16.0,Oregon,Paul Gregutt,Pinot Gris,Willamette Valley Vineyards
+115605,US,92,22.0,Oregon,Paul Gregutt,Pinot Gris,Chehalem
+115713,US,90,15.0,Washington,Paul Gregutt,Pinot Gris,Cuvée Lucia
+115835,US,91,22.0,Oregon,Paul Gregutt,Pinot Gris,Sokol Blosser
+115928,US,85,12.0,Oregon,Paul Gregutt,Pinot Gris,River's Edge
+116171,US,90,15.0,Washington,Paul Gregutt,Pinot Gris,Mercer
+116359,US,85,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Billsboro
+116408,US,88,12.0,Oregon,Paul Gregutt,Pinot Gris,Château Bianca
+116461,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,Van Duzer
+116538,US,90,17.0,Oregon,Paul Gregutt,Pinot Gris,Carabella
+116623,US,92,45.0,Oregon,Paul Gregutt,Pinot Gris,Francis Tannahill
+116753,US,86,18.0,Oregon,Paul Gregutt,Pinot Gris,Left Coast Cellars
+116762,US,86,22.0,California,Matt Kettmann,Pinot Gris,Carr
+117326,US,89,12.0,Oregon,Paul Gregutt,Pinot Gris,Lujon
+117340,US,89,13.0,Oregon,Paul Gregutt,Pinot Gris,A to Z
+117348,US,87,18.0,California,Jim Gordon,Pinot Gris,J Vineyards & Winery
+117662,US,87,16.0,California,Virginie Boone,Pinot Gris,McFadden
+117743,US,91,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+117824,US,86,20.0,California,Matt Kettmann,Pinot Gris,Still Waters
+117942,US,84,16.0,New York,Susan Kostrzewa,Pinot Gris,Billsboro
+118109,US,88,25.0,Oregon,Paul Gregutt,Pinot Gris,Deer Creek
+118231,US,91,19.0,Oregon,Paul Gregutt,Pinot Gris,Trinity Vineyards
+118281,US,89,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+118742,US,88,14.0,Oregon,Paul Gregutt,Pinot Gris,Rainstorm
+118982,US,86,18.0,California,Virginie Boone,Pinot Gris,Fenestra
+119328,US,88,23.0,Oregon,Paul Gregutt,Pinot Gris,Maysara
+119495,US,86,11.0,Washington,Sean P. Sullivan,Pinot Gris,Waterbrook
+119674,US,92,18.0,Oregon,Paul Gregutt,Pinot Gris,Iris Vineyards
+119773,US,87,16.0,New York,Anna Lee C. Iijima,Pinot Gris,Hosmer
+119789,US,90,25.0,Oregon,Paul Gregutt,Pinot Gris,Aubichon Cellars
+119842,US,88,10.0,Washington,Sean P. Sullivan,Pinot Gris,Chateau Ste. Michelle
+119898,US,88,13.0,Oregon,Paul Gregutt,Pinot Gris,Firesteed
+120073,US,89,16.0,California,Jim Gordon,Pinot Gris,McFadden
+120468,US,86,17.0,Oregon,Paul Gregutt,Pinot Gris,Hanson Vineyards
+120700,US,89,18.0,Oregon,Paul Gregutt,Pinot Gris,Lumos
+120704,US,87,16.0,Washington,Paul Gregutt,Pinot Gris,Boomtown
+120720,US,87,24.0,New York,Anna Lee C. Iijima,Pinot Gris,Red Newt Cellars
+120829,US,88,19.0,Oregon,Paul Gregutt,Pinot Gris,Grizzly Peak
+121460,US,89,25.0,California,Jim Gordon,Pinot Gris,FEL
+121645,US,87,16.0,Washington,Paul Gregutt,Pinot Gris,Castillo De Feliciana
+121968,US,90,15.0,Oregon,Paul Gregutt,Pinot Gris,Walnut City WineWorks
+122051,US,90,18.0,Oregon,Paul Gregutt,Pinot Gris,Durant
+122082,US,92,16.0,Oregon,Paul Gregutt,Pinot Gris,Deer Creek
+122100,US,92,24.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+122184,US,88,14.0,Washington,Sean P. Sullivan,Pinot Gris,Gård
+122310,US,89,14.0,Washington,Paul Gregutt,Pinot Gris,Alexandria Nicole
+122330,US,91,22.0,California,Virginie Boone,Pinot Gris,J Vineyards & Winery
+122342,US,91,25.0,Oregon,Paul Gregutt,Pinot Gris,Aubichon Cellars
+122371,US,86,20.0,Oregon,Paul Gregutt,Pinot Gris,Vista Hills
+122582,US,89,17.0,Oregon,Paul Gregutt,Pinot Gris,Conveyance
+122711,US,91,18.0,California,Matt Kettmann,Pinot Gris,Holman Ranch
+122848,US,89,20.0,Oregon,Paul Gregutt,Pinot Gris,Raptor Ridge
+123885,US,91,29.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+124092,US,83,11.0,Washington,Paul Gregutt,Pinot Gris,Apex II
+124095,US,83,15.0,Washington,Paul Gregutt,Pinot Gris,Silver Lake
+124142,US,90,17.0,Oregon,Paul Gregutt,Pinot Gris,Carabella
+124244,US,88,14.0,Washington,Paul Gregutt,Pinot Gris,Lost River
+124377,US,88,13.0,Oregon,Sean P. Sullivan,Pinot Gris,Primarius
+124489,US,90,20.0,Oregon,Paul Gregutt,Pinot Gris,Joleté
+124641,US,90,30.0,California,Virginie Boone,Pinot Gris,Keller Estate
+124711,US,90,20.0,Oregon,Paul Gregutt,Pinot Gris,Lumos
+124743,US,84,17.0,California,Jim Gordon,Pinot Gris,J Vineyards & Winery
+124819,US,88,15.0,Idaho,Paul Gregutt,Pinot Gris,3 Horse Ranch Vineyards
+125057,US,86,19.0,Washington,Paul Gregutt,Pinot Gris,Convergence Zone
+125533,US,88,19.0,California,Matt Kettmann,Pinot Gris,Sinor-LaVallee
+125772,US,80,18.0,Oregon,Michael Schachner,Pinot Gris,Paschal
+126171,US,88,13.0,Washington,Sean P. Sullivan,Pinot Gris,Jones of Washington
+126334,US,87,18.0,Idaho,Sean P. Sullivan,Pinot Gris,3 Horse Ranch Vineyards
+126491,US,86,12.0,Oregon,Paul Gregutt,Pinot Gris,Abiqua Wind
+126522,US,92,18.0,Oregon,Paul Gregutt,Pinot Gris,Arbor Brook
+127013,US,93,54.0,Oregon,Paul Gregutt,Pinot Gris,Archery Summit
+127239,US,87,14.0,Washington,Sean P. Sullivan,Pinot Gris,Willow Crest
+127333,US,88,20.0,California,Virginie Boone,Pinot Gris,MacMurray Estate Vineyards
+127632,US,90,19.0,Oregon,Paul Gregutt,Pinot Gris,Coeur de Terre
+127700,US,89,16.0,Oregon,Paul Gregutt,Pinot Gris,Sweet Cheeks
+127729,US,88,13.0,California,Virginie Boone,Pinot Gris,Cline
+127801,US,85,12.0,Oregon,Paul Gregutt,Pinot Gris,Girardet
+128667,US,90,15.0,California,Jim Gordon,Pinot Gris,Boeger
+128756,US,90,25.0,California,Jim Gordon,Pinot Gris,Lichen Estate
+128793,US,91,29.0,Oregon,Paul Gregutt,Pinot Gris,King Estate
+128858,US,86,16.0,Oregon,Paul Gregutt,Pinot Gris,Melrose
+128869,US,86,13.0,Oregon,Paul Gregutt,Pinot Gris,Kings Ridge
+129029,US,88,20.0,California,Jim Gordon,Pinot Gris,Navarro
+129059,US,93,21.0,Oregon,Paul Gregutt,Pinot Gris,WillaKenzie Estate
+129304,US,90,15.0,Oregon,Paul Gregutt,Pinot Gris,A to Z
+129440,US,87,18.0,California,Jim Gordon,Pinot Gris,J Vineyards & Winery
+129477,US,88,14.0,Washington-Oregon,Paul Gregutt,Pinot Gris,ENSO
+129483,US,88,23.0,Oregon,Paul Gregutt,Pinot Gris,Bell
+129713,US,86,11.0,Washington,Sean P. Sullivan,Pinot Gris,Waterbrook
+129783,US,89,13.0,Washington,Paul Gregutt,Pinot Gris,Lone Birch
+129788,US,89,15.0,New York,Anna Lee C. Iijima,Pinot Gris,Dr. Konstantin Frank
+129909,US,91,20.0,California,Matt Kettmann,Pinot Gris,Derby
