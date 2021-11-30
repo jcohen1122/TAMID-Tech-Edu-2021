@@ -1,0 +1,303 @@
+{
+  "Houston Astros" : [ {
+    "Batting Avg" : 0.267,
+    "Hits" : 1496,
+    "Homeruns" : 221,
+    "Losses" : 67,
+    "RBIs" : 834,
+    "Runs" : 863,
+    "Strikeouts" : 1222,
+    "Wins" : 95,
+    "Year" : 2021
+  }, {
+    "Batting Avg" : 0.24,
+    "Hits" : 478,
+    "Homeruns" : 69,
+    "Losses" : 31,
+    "RBIs" : 368,
+    "Runs" : 279,
+    "Strikeouts" : 440,
+    "Wins" : 29,
+    "Year" : 2020
+  }, {
+    "Batting Avg" : 0.274,
+    "Hits" : 1538,
+    "Homeruns" : 288,
+    "Losses" : 55,
+    "RBIs" : 891,
+    "Runs" : 920,
+    "Strikeouts" : 1166,
+    "Wins" : 107,
+    "Year" : 2019
+  }, {
+    "Batting Avg" : 0.255,
+    "Hits" : 1390,
+    "Homeruns" : 205,
+    "Losses" : 59,
+    "RBIs" : 763,
+    "Runs" : 797,
+    "Strikeouts" : 1197,
+    "Wins" : 83,
+    "Year" : 2018
+  }, {
+    "Batting Avg" : 0.282,
+    "Hits" : 1581,
+    "Homeruns" : 238,
+    "Losses" : 61,
+    "RBIs" : 854,
+    "Runs" : 896,
+    "Strikeouts" : 1087,
+    "Wins" : 101,
+    "Year" : 2017
+  }, {
+    "Batting Avg" : 0.247,
+    "Hits" : 1367,
+    "Homeruns" : 198,
+    "Losses" : 78,
+    "RBIs" : 689,
+    "Runs" : 724,
+    "Strikeouts" : 1452,
+    "Wins" : 84,
+    "Year" : 2016
+  }, {
+    "Batting Avg" : 0.25,
+    "Hits" : 1363,
+    "Homeruns" : 230,
+    "Losses" : 76,
+    "RBIs" : 691,
+    "Runs" : 729,
+    "Strikeouts" : 1392,
+    "Wins" : 86,
+    "Year" : 2015
+  }, {
+    "Batting Avg" : 0.242,
+    "Hits" : 1317,
+    "Homeruns" : 163,
+    "Losses" : 92,
+    "RBIs" : 596,
+    "Runs" : 629,
+    "Strikeouts" : 1442,
+    "Wins" : 70,
+    "Year" : 2014
+  }, {
+    "Batting Avg" : 0.24,
+    "Hits" : 1307,
+    "Homeruns" : 148,
+    "Losses" : 111,
+    "RBIs" : 566,
+    "Runs" : 610,
+    "Strikeouts" : 1535,
+    "Wins" : 51,
+    "Year" : 2013
+  }, {
+    "Batting Avg" : 0.236,
+    "Hits" : 1276,
+    "Homeruns" : 146,
+    "Losses" : 107,
+    "RBIs" : 545,
+    "Runs" : 583,
+    "Strikeouts" : 1365,
+    "Wins" : 55,
+    "Year" : 2012
+  }, {
+    "Batting Avg" : 0.258,
+    "Hits" : 1442,
+    "Homeruns" : 95,
+    "Losses" : 106,
+    "RBIs" : 579,
+    "Runs" : 615,
+    "Strikeouts" : 1164,
+    "Wins" : 56,
+    "Year" : 2011
+  }, {
+    "Batting Avg" : 0.247,
+    "Hits" : 1348,
+    "Homeruns" : 108,
+    "Losses" : 86,
+    "RBIs" : 577,
+    "Runs" : 611,
+    "Strikeouts" : 1025,
+    "Wins" : 76,
+    "Year" : 2010
+  }, {
+    "Batting Avg" : 0.26,
+    "Hits" : 1415,
+    "Homeruns" : 142,
+    "Losses" : 88,
+    "RBIs" : 616,
+    "Runs" : 643,
+    "Strikeouts" : 990,
+    "Wins" : 74,
+    "Year" : 2009
+  }, {
+    "Batting Avg" : 0.263,
+    "Hits" : 1432,
+    "Homeruns" : 167,
+    "Losses" : 75,
+    "RBIs" : 864,
+    "Runs" : 712,
+    "Strikeouts" : 1051,
+    "Wins" : 86,
+    "Year" : 2008
+  }, {
+    "Batting Avg" : 0.26,
+    "Hits" : 1457,
+    "Homeruns" : 167,
+    "Losses" : 89,
+    "RBIs" : 700,
+    "Runs" : 723,
+    "Strikeouts" : 1043,
+    "Wins" : 73,
+    "Year" : 2007
+  }, {
+    "Batting Avg" : 0.255,
+    "Hits" : 1407,
+    "Homeruns" : 174,
+    "Losses" : 80,
+    "RBIs" : 708,
+    "Runs" : 735,
+    "Strikeouts" : 1076,
+    "Wins" : 82,
+    "Year" : 2006
+  }, {
+    "Batting Avg" : 0.256,
+    "Hits" : 1400,
+    "Homeruns" : 161,
+    "Losses" : 73,
+    "RBIs" : 654,
+    "Runs" : 693,
+    "Strikeouts" : 1037,
+    "Wins" : 89,
+    "Year" : 2005
+  }, {
+    "Batting Avg" : 0.267,
+    "Hits" : 1458,
+    "Homeruns" : 187,
+    "Losses" : 70,
+    "RBIs" : 756,
+    "Runs" : 803,
+    "Strikeouts" : 999,
+    "Wins" : 92,
+    "Year" : 2004
+  }, {
+    "Batting Avg" : 0.263,
+    "Hits" : 1466,
+    "Homeruns" : 191,
+    "Losses" : 75,
+    "RBIs" : 763,
+    "Runs" : 805,
+    "Strikeouts " : 1021,
+    "Wins" : 87,
+    "Year" : 2003
+  }, {
+    "Batting Avg" : 0.262,
+    "Hits" : 1441,
+    "Homeruns" : 167,
+    "Losses" : 78,
+    "RBIs" : 719,
+    "Runs" : 749,
+    "Strikeouts" : 1120,
+    "Wins" : 84,
+    "Year" : 2002
+  }, {
+    "Batting Avg" : 0.271,
+    "Hits" : 1500,
+    "Homeruns" : 208,
+    "Losses" : 69,
+    "RBIs" : 805,
+    "Runs" : 847,
+    "Strikeouts" : 1119,
+    "Wins" : 93,
+    "Year" : 2001
+  }, {
+    "Batting Avg" : 0.278,
+    "Hits" : 1547,
+    "Homeruns" : 249,
+    "Losses" : 90,
+    "RBIs" : 900,
+    "Runs" : 938,
+    "Strikeouts" : 1129,
+    "Wins" : 72,
+    "Year" : 2000
+  }, {
+    "Batting Avg" : 0.267,
+    "Hits" : 1463,
+    "Homeruns" : 168,
+    "Losses" : 65,
+    "RBIs" : 784,
+    "Runs" : 823,
+    "Strikeouts" : 1138,
+    "Wins" : 97,
+    "Year" : 1999
+  }, {
+    "Batting Avg" : 0.28,
+    "Hits" : 1578,
+    "Homeruns" : 166,
+    "Losses" : 60,
+    "RBIs" : 818,
+    "Runs" : 874,
+    "Strikeouts" : 1122,
+    "Wins" : 102,
+    "Year" : 1998
+  }, {
+    "Batting Avg" : 0.259,
+    "Hits" : 1427,
+    "Homeruns" : 133,
+    "Losses" : 78,
+    "RBIs" : 720,
+    "Runs" : 777,
+    "Strikeouts" : 1005,
+    "Wins" : 84,
+    "Year" : 1997
+  }, {
+    "Batting Avg" : 0.252,
+    "Hits" : 1445,
+    "Homeruns" : 129,
+    "Losses" : 80,
+    "RBIs" : 703,
+    "Runs" : 753,
+    "Strikeouts" : 1057,
+    "Wins" : 82,
+    "Year" : 1996
+  }, {
+    "Batting Avg" : 0.275,
+    "Hits" : 1403,
+    "Homeruns" : 109,
+    "Losses" : 68,
+    "RBIs" : 693,
+    "Runs" : 747,
+    "Strikeouts" : 992,
+    "Wins" : 76,
+    "Year" : 1995
+  }, {
+    "Batting Avg" : 0.278,
+    "Hits" : 1099,
+    "Homeruns" : 120,
+    "Losses" : 49,
+    "RBIs" : 573,
+    "Runs" : 602,
+    "Strikeouts" : 718,
+    "Wins" : 66,
+    "Year" : 1994
+  }, {
+    "Batting Avg" : 0.267,
+    "Hits" : 1459,
+    "Homeruns" : 138,
+    "Losses" : 77,
+    "RBIs" : 656,
+    "Runs" : 716,
+    "Strikeouts" : 911,
+    "Wins" : 85,
+    "Year" : 1993
+  }, {
+    "Batting Avg" : 0.246,
+    "Hits" : 1350,
+    "Homeruns" : 96,
+    "Losses" : 81,
+    "RBIs" : 582,
+    "Runs" : 608,
+    "Strikeouts" : 1025,
+    "Wins" : 81,
+    "Year" : 1992
+  } ]
+}
